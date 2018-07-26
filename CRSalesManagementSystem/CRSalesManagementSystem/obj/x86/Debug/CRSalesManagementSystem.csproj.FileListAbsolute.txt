@@ -1,0 +1,11 @@
+c:\users\migk\documents\visual studio 2010\Projects\CRSalesManagementSystem\CRSalesManagementSystem\bin\Debug\CRSalesManagementSystem.exe
+c:\users\migk\documents\visual studio 2010\Projects\CRSalesManagementSystem\CRSalesManagementSystem\bin\Debug\CRSalesManagementSystem.pdb
+c:\users\migk\documents\visual studio 2010\Projects\CRSalesManagementSystem\CRSalesManagementSystem\obj\x86\Debug\CRSalesManagementSystem.csprojResolveAssemblyReference.cache
+c:\users\migk\documents\visual studio 2010\Projects\CRSalesManagementSystem\CRSalesManagementSystem\obj\x86\Debug\CRSalesManagementSystem.Dashboard.resources
+c:\users\migk\documents\visual studio 2010\Projects\CRSalesManagementSystem\CRSalesManagementSystem\obj\x86\Debug\CRSalesManagementSystem.Login.resources
+c:\users\migk\documents\visual studio 2010\Projects\CRSalesManagementSystem\CRSalesManagementSystem\obj\x86\Debug\CRSalesManagementSystem.Properties.Resources.resources
+c:\users\migk\documents\visual studio 2010\Projects\CRSalesManagementSystem\CRSalesManagementSystem\obj\x86\Debug\CRSalesManagementSystem.csproj.GenerateResource.Cache
+c:\users\migk\documents\visual studio 2010\Projects\CRSalesManagementSystem\CRSalesManagementSystem\obj\x86\Debug\CRSalesManagementSystem.exe
+c:\users\migk\documents\visual studio 2010\Projects\CRSalesManagementSystem\CRSalesManagementSystem\obj\x86\Debug\CRSalesManagementSystem.pdb
+c:\users\migk\documents\visual studio 2010\Projects\CRSalesManagementSystem\CRSalesManagementSystem\obj\x86\Debug\CRSalesManagementSystem.SelectProducts.resources
+C:\Users\MIGK\Documents\Visual Studio 2010\Projects\CRSalesManagementSystem\CRSalesManagementSystem\obj\x86\Debug\CRSalesManagementSystem.ProductOrdered.resources
